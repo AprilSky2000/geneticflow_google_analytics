@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "act-geneticflow",
+  "private_key_id": "cb371a4de85955cbc24a42869b293797ce7191fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDSReiVy1cj9Yj1\n7Rh12UEGWsUYo0B/4AQzoPxUH6CY60ng3EXSmRZeRB4kz82tRrgk/bUxluS55OGg\nMaWA5Y2SyHaNgsl1YnEH7iSWKsVj/jP9eZ1iM9cG9DtdKpTElQcKiLAXbKJAFcwo\nfla5XAUwNnkhNa32Uh6cqV7N48xPfBEVekRhSfTLy7ooTSFbPIasLG6s05ag7CZP\nViIuO931DE8AAaBIdKA09K4u/qPQZuq/1Z+LM2yWYLAe9TDMOoiDQ7eW03GouFLY\nQm/t08Bfo9U7Nw2ESmiw06enEVTwBxI+daCIILV9TR0EgoJzp03KpZF0MrEd3zSK\nCt3Zi+KhAgMBAAECgf9Z1kRou1efpWe+qm2o7Ak8DcvnmtgTykIBTOaBioGy09Pc\nnj+2mnFUFQZL8/yL64sBQuQHK9DNG1zKdGuhhnHWJI+CJj6sSELCgJxhDCUJc7IC\nudLkAgH8lpxGUcr9si4v8fZKC7/GYYm4Q0IKL6aH0r4t0iFg+/TYOgSnMow36KNq\nC4IckyIWwc47J4JJ6gdgJ9uVOdFa9iqUJlnTrUMbyj+HM6FRfXZPVKcHxYYBbuK+\nedXXVSqLBZuiWIiB84QZeWx0QLtqjDCfyUBNTwpMtWSVj99HirdqxfSFb+Sy6Ebd\nBqMa4C3UzgHOrhLHO327//h3c++54/YPtreuSgECgYEA80fdBMt0+laBtginSeTa\nt61KjsWxAVeVkFxgezgqhoOht2iPlRTmVRNFGAtbV/AehQ1zUUyVFYqnLeLQ7oZk\neL0hNKhqxAfdXq7VJWGsuBSz51cSkAHudrSk2jBFM9qQxcDynS9S+g8dFUKZAnf1\n4wrAGXkoy7NOpVrUZBrrM4ECgYEA3URDBnW/VxzlnlYo7+EO2lAT8XvbuH9lKeVY\ntMRECmn632eUyCfdN2mO6BeHFWTrUkPSwof0C9psy04Yv9YcOTNJXocCuFmw3hwG\nTiUG7R9YzeaWsfU/k0m8/66jXn+MAYsjojMIKrVSDe6HxIrsLa4SC4PZQ39zKAT3\nNmhNvyECgYEAkvGoNTozGPZheLM3YHHEDke0jhIovPfLFhxGBodBYGhnqKGWgGTU\nTzTJeiF59d7KgHFEYynPruhF3Hhw3HH+g9MxGF5Vxrw9YPBXPDIIIlQW6jf0tVkF\nUVwBauzXD+AHq/rEUF8CTpoMZggI5a3RrmaS64/8LTXL3iLDwQdlY4ECgYAEhizI\nqQeshE69mg1kOjnPhOujeGDZuOEcpi/WIl0xyVDz2G5WWVpQk7v0SubcLSASoohg\nqd73jxPCZGplIb+Z+854PFJ16n+PSwtl9aPanVV3gEt8gAM4w701jSCSAhGexnWI\nD3sPRH3VAxeLkTubA4Ai9CMxGh4Ep3VWi3NrgQKBgG19dizHGx8OO+h7mf98eOS0\nS1NZk/zuxnr+TLBW0Q62PeKBOPUdUDpAOfs9QoCSqRbOSsIAm9pkRhsb7hr/sd7W\nKhys4pMwKluVJLOyaRB0iybQlSJ+44JBVnHmLRttfEyKIDFxe02R7SqxBQSn9yNE\nljv0F2Vkj7FQ6RbuyQlr\n-----END PRIVATE KEY-----\n",
+  "client_email": "geneticflow@act-geneticflow.iam.gserviceaccount.com",
+  "client_id": "104009281156900984358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/geneticflow%40act-geneticflow.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

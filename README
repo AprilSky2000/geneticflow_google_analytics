@@ -1,0 +1,4 @@
+## crontab加入命令
+```
+0 0 * * * /path/google_analytics_cron.sh
+```
